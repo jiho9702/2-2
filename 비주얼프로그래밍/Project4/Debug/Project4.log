@@ -1,0 +1,4 @@
+﻿  소스.cpp
+C:\Users\jiho9\OneDrive\바탕 화면\Subject\VisualProgramming\Project4\소스.cpp(52,17): warning C4101: 'oldBrush' :참조되지 않은 지역 변수입니다.
+C:\Users\jiho9\OneDrive\바탕 화면\Subject\VisualProgramming\Project4\소스.cpp(52,9): warning C4101: 'hBrush' :참조되지 않은 지역 변수입니다.
+  Project4.vcxproj -> C:\Users\jiho9\OneDrive\바탕 화면\Subject\VisualProgramming\Project4\Debug\Project4.exe

@@ -1,0 +1,11 @@
+﻿  소스.cpp
+C:\Users\jiho9\OneDrive\바탕 화면\Subject\VisualProgramming\Project7\소스.cpp(5,1): warning C4005: 'LINE': 매크로 재정의
+C:\Users\jiho9\OneDrive\바탕 화면\Subject\VisualProgramming\Project7\resource.h(16): message : 'LINE'의 이전 정의를 참조하십시오.
+C:\Users\jiho9\OneDrive\바탕 화면\Subject\VisualProgramming\Project7\소스.cpp(6,1): warning C4005: 'ELLIPSE': 매크로 재정의
+C:\Users\jiho9\OneDrive\바탕 화면\Subject\VisualProgramming\Project7\resource.h(17): message : 'ELLIPSE'의 이전 정의를 참조하십시오.
+C:\Users\jiho9\OneDrive\바탕 화면\Subject\VisualProgramming\Project7\소스.cpp(7,1): warning C4005: 'RECTANGLE': 매크로 재정의
+C:\Users\jiho9\OneDrive\바탕 화면\Subject\VisualProgramming\Project7\resource.h(18): message : 'RECTANGLE'의 이전 정의를 참조하십시오.
+C:\Users\jiho9\OneDrive\바탕 화면\Subject\VisualProgramming\Project7\소스.cpp(95,17): warning C4101: 'COLOR' :참조되지 않은 지역 변수입니다.
+C:\Users\jiho9\OneDrive\바탕 화면\Subject\VisualProgramming\Project7\소스.cpp(94,12): warning C4101: 'hBrush' :참조되지 않은 지역 변수입니다.
+C:\Users\jiho9\OneDrive\바탕 화면\Subject\VisualProgramming\Project7\소스.cpp(93,10): warning C4101: 'hPen' :참조되지 않은 지역 변수입니다.
+  Project7.vcxproj -> C:\Users\jiho9\OneDrive\바탕 화면\Subject\VisualProgramming\Project7\Debug\Project7.exe
